@@ -16,7 +16,7 @@
                             <div class="desc">
                                 <p>{{ feature.text }}</p>
                             </div>
-                            <n-link to="/about" class="link">Learn More</n-link>
+                            <!-- <n-link to="/about" class="link">Learn More</n-link> -->
                         </div>
                     </div>
                 </div>
@@ -38,21 +38,21 @@
                 features: [
                     {
                         id: 1,
-                        title: "Branding",
-                        text: "First impressions count! Make sure your brand works for you. We offer digital marketing.",
+                        title: "Strategie 1",
+                        text: "                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
                         iconSrc: "/images/svg/linea/linea-basic-target.svg"
                     },
                     {
                         id: 2,
-                        title: "UX Design",
-                        text: "First impressions count! Make sure your brand works for you. We offer digital marketing.",
-                        iconSrc: "/images/svg/linea/linea-basic-picture-multiple.svg"
+                        title: "Strategie 2",
+                        text: "                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                        iconSrc: "/images/svg/linea/linea-basic-target.svg"
                     },
                     {
                         id: 3,
-                        title: "Strategy",
-                        text: "First impressions count! Make sure your brand works for you. We offer digital marketing.",
-                        iconSrc: "/images/svg/linea/linea-basic-picture.svg"
+                        title: "Strategie 3",
+                        text: "                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+                        iconSrc: "/images/svg/linea/linea-basic-target.svg"
                     }
                 ]
             }

@@ -19,7 +19,7 @@
 
         <PortfolioGalleryTwo :style="{backgroundColor: '#f8faff'}" />
 
-        <TestimonialSectionOne />
+        <!-- <TestimonialSectionOne /> -->
 
         <BlogSectionOne :style="{backgroundColor: '#f8faff'}" />
 

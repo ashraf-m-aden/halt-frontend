@@ -7,8 +7,8 @@
                     <div class="contact-Information mr-xl-7">
                         <!-- Section Title Two Start -->
                         <div class="section-title-two">
-                            <span class="sub-title">Innovative & cutting-edge technology</span>
-                            <h3 class="title">We use latest technologies that are proven and practical</h3>
+                            <span class="sub-title">Un gout du travail et une experience reconnue</span>
+                            <h3 class="title"></h3>
                         </div>
                         <!-- Section Title Two End -->
 
@@ -18,8 +18,8 @@
                                 <img class="svgInject" src="/images/svg/linea/linea-basic-map.svg" alt="">
                             </div>
                             <div class="info">
-                                <h4 class="title">Our Locations</h4>
-                                <span class="info-text"> 110 W 34th St, NYC. / 67 Madison Avenue.</span>
+                                <h4 class="title">Notre addresse</h4>
+                                <span class="info-text"> Djibouti, plateau du serpent. Batiment XX.</span>
                             </div>
                         </div>
                         <!-- Contact Info Item End -->
@@ -30,7 +30,7 @@
                                 <img class="svgInject" src="/images/svg/linea/linea-basic-message-txt.svg" alt="">
                             </div>
                             <div class="info">
-                                <h4 class="title">Give Us A Call</h4>
+                                <h4 class="title">Contactez nous sur les numeros suivants</h4>
                                 <span class="info-text"> 0123456789 / 0123456789</span>
                             </div>
                         </div>
@@ -42,7 +42,7 @@
                                 <img class="svgInject" src="/images/svg/linea/linea-basic-mail-open-text.svg" alt="">
                             </div>
                             <div class="info">
-                                <h4 class="title"> Help Desk</h4>
+                                <h4 class="title"> Nos addresses email</h4>
                                 <span class="info-text">
                                     <a href="mailto:demo@example.com">demo@example.com</a>,
                                     <a href="mailto:demo@example.com">demo@example.com</a>
@@ -59,8 +59,8 @@
                     <div class="contact-form-area box-shadow">
                         <!-- Section Title Start -->
                         <div class="section-title text-center mb-7">
-                            <h2 class="title fz-28">Let’s talk about your project</h2>
-                            <p class="sub-title">We have made it easy for clients to reach us and get their solutions weaved</p>
+                            <h2 class="title fz-28">Parlons de votre projet!</h2>
+                            <p class="sub-title">Nous avons permis aux clients de nous joindre facilement et d'obtenir leurs solutions</p>
                         </div>
                         <!-- Section Title End -->
                         <form >
@@ -75,7 +75,7 @@
                                     <textarea name="message" placeholder="Message"></textarea>
                                 </div>
                                 <div class="col-12 text-center mb-4">
-                                    <button class="btn btn-primary btn-hover-secondary">Get a free consultation</button>
+                                    <button class="btn btn-primary btn-hover-secondary">Consulter</button>
                                 </div>
                             </div>
                         </form>

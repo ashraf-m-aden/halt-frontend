@@ -2,7 +2,7 @@
     <div class="section-padding-t90-b100">
         <div class="container">
             <!-- Section Title Start -->
-            <SectionTitle title="We are a full-service creative agency" sub-title="Our team of designers, developers and creatives are perfectionists who love what they do and love" />
+            <SectionTitle title="Notre actualité" sub-title="Une phrase d'accroche ici ou pas, recherche d'inspiration" />
             <!-- Section Title End -->
 
             <div class="row row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1 mtn-60">
