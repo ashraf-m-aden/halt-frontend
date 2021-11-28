@@ -65,4 +65,6 @@ export default {
         extend (config, ctx) {
         },
     },
+    target: 'static'
+
 }

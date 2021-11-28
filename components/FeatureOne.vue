@@ -2,7 +2,7 @@
     <div class="section-padding-t90-b100">
         <div class="container">
             <!-- Section Title Start -->
-            <SectionTitle title="Nous créons un plan d'action unique pour nos clients" sub-title="Get your company heading in the right direction with our digital marketing strategist" add-class-name="mb-60" />
+            <SectionTitle title="Nous créons un plan d'action unique pour nos clients" sub-title="Une phrase d'accroche ici aussi" add-class-name="mb-60" />
             <!-- Section Title End -->
 
             <div class="row row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1 mtn-30">
