@@ -8,7 +8,7 @@
             <div class="desc">
                 <p>{{ service.text }}</p>
             </div>
-            <n-link to="/project-details" class="link">Learn More</n-link>
+            <n-link to="/fr/projet-details" class="link">Learn More</n-link>
         </div>
     </div>
 </template>

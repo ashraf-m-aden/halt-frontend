@@ -7,7 +7,7 @@
                 <div class="col-md-4 col-sm-6 col-12 mt-30">
                     <div class="footer-widget">
                         <div class="footer-logo">
-                            <n-link to="/">
+                            <n-link to="/fr/">
                                 <img :src="footerData.footerAboutWidget.logoSrc" alt="Logo">
                             </n-link>
                         </div>

@@ -37,8 +37,7 @@
                                     </div>
                                     <ul class="meta mb-0 mt-4">
                                         <li><i class="fal fa-pencil-alt"></i>Written by Admin, 10 Oct 2020</li>
-                                        <li><i class="fas fa-tags"></i>Marketing, UX Design</li>
-                                        <li><i class="fas fa-comments"></i>4 Comments</li>
+                                    
                                         <li class="media"><a href="#"><i class="fas fa-share-alt"></i>Share this post</a>
                                             <div class="list">
                                                 <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -52,7 +51,7 @@
                             </div>
                             <!-- Blog End -->
 
-                            <div class="entry-author">
+                            <!-- <div class="entry-author">
                                 <div class="author-info">
                                     <div class="author-avatar">
                                         <img src="/images/blog/blog-author.png" alt="image">
@@ -65,7 +64,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
 
                             <div class="blog-nav-links">
                                 <h4 class="title">Related Posts </h4>
@@ -92,97 +91,7 @@
                                 </div>
                             </div>
 
-                            <div class="comment-list-wrapper">
-                                <div class="row">
-                                    <div class="col-lg-12">
-                                        <h4 class="title">Comments (4) </h4>
-                                    </div>
-                                    <div class="col-lg-12">
-                                        <ul class="comment-list">
-                                            <li class="comment">
-                                                <div class="comment-2">
-                                                    <div class="comment-author vcard">
-                                                        <img alt="" src="/images/comment/comment1.png">
-                                                    </div>
-                                                    <div class="comment-content">
-                                                        <div class="meta">
-                                                            <h6 class="fn">Thomas Smith</h6>
-                                                            <div class="comment-datetime"> 10 Oct, 2019. 10:00AM </div>
-                                                        </div>
-                                                        <div class="comment-text">
-                                                            <p>An interesting article​ about ​content marketing. It has evolved moving from If you are interested in content marketing, have a look at the article's traditional media into the digital landscape.</p>
-                                                        </div>
-                                                        <div class="comment-actions">
-                                                            <a class="comment-reply-link" href="javascript:void(0)">Reply</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </li>
-                                            <!-- comment End-->
-                                            <li class="children comment">
-                                                <div class="comment-6">
-                                                    <div class="comment-author vcard">
-                                                        <img alt="" src="/images/comment/comment2.png">
-                                                    </div>
-                                                    <div class="comment-content">
-                                                        <div class="meta">
-                                                            <h6 class="fn">Eloise Smith</h6>
-                                                            <div class="comment-datetime">10 Oct, 2019. 10:00AM</div>
-                                                        </div>
-                                                        <div class="comment-text">
-                                                            <p>An interesting article​ about ​content marketing. It has evolved moving from If you are interested in content marketing, have a look at the article's traditional media into the digital landscape.</p>
-                                                        </div>
-                                                        <div class="comment-actions">
-                                                            <a class="comment-reply-link" href="javascript:void(0)">Reply</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </li><!-- comment End -->
-                                            <li class="comment">
-                                                <div class="comment-2">
-                                                    <div class="comment-author vcard">
-                                                        <img alt="" src="/images/comment/comment3.png">
-                                                    </div>
-                                                    <div class="comment-content">
-                                                        <div class="meta">
-                                                            <h6 class="fn">Stella Smith</h6>
-                                                            <div class="comment-datetime"> 10 Oct, 2019. 10:00AM </div>
-                                                        </div>
-                                                        <div class="comment-text">
-                                                            <p>An interesting article​ about ​content marketing. It has evolved moving from If you are interested in content marketing, have a look at the article's traditional media into the digital landscape.</p>
-                                                        </div>
-                                                        <div class="comment-actions">
-                                                            <a class="comment-reply-link" href="javascript:void(0)">Reply</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="comment-form-wrap">
-                                <div class="comment-respond">
-                                    <h3 class="title">Leave a Reply</h3>
-                                    <form action="#" method="post">
-                                        <div class="row">
-                                            <div class="col-md-6 col-12 mb-3">
-                                                <input type="text" placeholder="Your Name *" name="name">
-                                            </div>
-                                            <div class="col-md-6 col-12 mb-3">
-                                                <input type="email" placeholder="Email *" name="email">
-                                            </div>
-                                            <div class="col-12 mb-3">
-                                                <textarea name="message" placeholder="Your Comment"></textarea>
-                                            </div>
-                                            <div class="col-12 text-left">
-                                                <button class="btn btn-primary btn-hover-secondary">Submit</button>
-                                            </div>
-                                        </div>
-                                    </form>
-                                </div>
-                            </div>
+                           
                         </div>
                     </div>
 
@@ -221,8 +130,8 @@
 
                 items: [
                     {
-                        text: 'Home',
-                        to: "/"
+                        text: 'Acceuil',
+                        to: "/fr/"
                     },
                     {
                         text: 'Blog Details',

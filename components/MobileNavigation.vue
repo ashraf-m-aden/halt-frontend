@@ -2,57 +2,29 @@
     <div class="mobile-navigation">
         <nav class="offcanvas-navigation" id="offcanvas-navigation">
             <ul>
-                <li class="menu-item-has-children">
-                    <n-link to="/">Home</n-link>
-                    <ul class="sub-menu">
-                        <li>
-                            <n-link to="/">Home One</n-link>
-                        </li>
-                        <li>
-                            <n-link to="/home-two">Home Two</n-link>
-                        </li>
-                        <li>
-                            <n-link to="/home-three">Home Three</n-link>
-                        </li>
-                    </ul>
+                <li>
+                    <n-link to="/fr/">Acceuil</n-link>
+                  
                 </li>
 
                 <li>
-                    <n-link to="/about">About Us</n-link>
+                    <n-link to="/fr/a-propos">A propos</n-link>
                 </li>
                 <li>
-                    <n-link to="/service">Services</n-link>
-                </li>
-
-                <li class="menu-item-has-children">
-                    <n-link to="/">Project</n-link>
-                    <ul class="sub-menu">
-                        <li>
-                            <n-link to="/project">Project</n-link>
-                        </li>
-                        <li>
-                            <n-link to="/project-details">Project Details</n-link>
-                        </li>
-                    </ul>
-                </li>
-
-                <li class="menu-item-has-children">
-                    <n-link to="/">Blog</n-link>
-                    <ul class="sub-menu">
-                        <li>
-                            <n-link to="/blog-grid">Blog Grid</n-link>
-                        </li>
-                        <li>
-                            <n-link to="/blog-classic">Blog Classic</n-link>
-                        </li>
-                        <li>
-                            <n-link to="/blog-details">Blog Details</n-link>
-                        </li>
-                    </ul>
+                    <n-link to="/fr/services">Services</n-link>
                 </li>
 
                 <li>
-                    <n-link to="/contact-us">Contact Us</n-link>
+                    <n-link to="/fr/projets">Projets</n-link>
+
+                </li>
+
+                <li >
+                    <n-link to="/fr/blog">Blog</n-link>
+                </li>
+
+                <li>
+                    <n-link to="/fr/contact">Contact</n-link>
                 </li>
             </ul>
         </nav>

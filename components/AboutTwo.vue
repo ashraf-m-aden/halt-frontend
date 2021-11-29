@@ -8,7 +8,7 @@
                         <!-- Section Title Two Start -->
                         <div class="section-title-two">
                             <span class="sub-title">Nos réalisations</span>
-                            <h3 class="title">Mettre ici une phrase <br> d'accroche</h3>
+                            <h3 class="title">Votre partenaire au Moyen-Orient<br> et en Afrique</h3>
                         </div>
                         <!-- Section Title Two End -->
 
@@ -17,14 +17,16 @@
                                 <div class="about-funfact">
                                     <div class="number"><span class="counter">110</span>+</div>
                                     <h6 class="text">Clients satisfaits</h6>
-                                    <p>Nous aidons nos clients à augmenter leurs profits en leur fournissons un service de qualité.</p>
+                                    <p>HALT Group est au service de la communauté international des affaires depuis 2007 et, est uniquement
+positionné dans des endroits stratégiques mondiaux.</p>
                                 </div>
                             </div>
                             <div class="col-md-5 col-sm-6 col-12 mt-30" data-aos="fade-up">
                                 <div class="about-funfact">
                                     <div class="number"><span class="counter">130</span>+</div>
                                     <h6 class="text">Projets completés</h6>
-                                    <p>Nous aidons nos clients à augmenter leurs profits en leur fournissons un service de qualité.</p>
+                                    <p>Nous travaillons en partenariat, développons, construisons, fournissons et gérons
+des projets commerciaux stratégiques à l'échelle mondiale.</p>
                                 </div>
                             </div>
                         </div>

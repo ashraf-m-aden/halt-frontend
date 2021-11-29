@@ -9,7 +9,7 @@
                     <h1 class="error-404-title text-white" v-if="error.statusCode === 404">Oops! Page inexistante!</h1>
                     <h1 class="error-404-title text-white" v-else>Une erreur s'est produite</h1>
                     <div class="error-buttons">
-                        <n-link to="/" class="btn btn-primary btn-hover-secondary">
+                        <n-link to="/fr/" class="btn btn-primary btn-hover-secondary">
                             <span class="button-text">Retour à l'acceuil</span>
                         </n-link>
                     </div>

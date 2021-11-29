@@ -16,7 +16,7 @@
                             <div class="desc">
                                 <p>{{ feature.text }}</p>
                             </div>
-                            <!-- <n-link to="/about" class="link">Learn More</n-link> -->
+                            <!-- <n-link to="/fr/about" class="link">Learn More</n-link> -->
                         </div>
                     </div>
                 </div>

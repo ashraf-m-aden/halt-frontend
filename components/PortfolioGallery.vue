@@ -30,7 +30,7 @@
                         </div>
                         <div class="content">
                             <h5 class="title">
-                                <n-link to="/project-details">{{ portfolio.title }}</n-link>
+                                <n-link to="/fr/projet-details">{{ portfolio.title }}</n-link>
                             </h5>
                         </div>
                     </div>

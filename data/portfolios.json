@@ -2,37 +2,37 @@
     "portfolios": [
         {
             "id": 1,
-            "imgSrc": "/images/portfolio/construction-02.jpg",
+            "imgSrc": "/images/brochure/camion.png",
             "title": "Service 1",
             "category": "development"
         },
         {
             "id": 2,
-            "imgSrc": "/images/portfolio/consultant.jpg",
+            "imgSrc": "/images/brochure/personne3.png",
             "title": "Service 2",
             "category": "app design"
         },
         {
             "id": 3,
-            "imgSrc": "/images/portfolio/estate.jpg",
+            "imgSrc": "/images/brochure/appareille1.png",
             "title": "Service 3",
             "category": "marketing"
         },
         {
             "id": 4,
-            "imgSrc": "/images/portfolio/hr.jpg",
+            "imgSrc": "/images/logo/dmix.png",
             "title": "Service 4",
             "category": "software"
         },
         {
             "id": 5,
-            "imgSrc": "/images/portfolio/bank.jpg",
+            "imgSrc": "/images/logo/SCHAASE.png",
             "title": "Service 5",
             "category": "design"
         },
         {
             "id": 6,
-            "imgSrc": "/images/portfolio/security.jpg",
+            "imgSrc": "/images/logo/ead.png",
             "title": "Service 6",
             "category": "app"
         }

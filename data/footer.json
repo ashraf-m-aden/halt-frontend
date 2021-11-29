@@ -10,20 +10,20 @@
     "footerLinkTitleOne": "Services",
     "navListOne": [
         {
-            "navTitle": "Service 1",
-            "navUrl": "/" 
+            "navTitle": "HALT group International",
+            "navUrl": "/fr/a-propos" 
         },
         {
-            "navTitle": "Service 2",
-            "navUrl": "/" 
+            "navTitle": "DMIX",
+            "navUrl": "/fr/" 
         },
         {
-            "navTitle": "Service 3",
-            "navUrl": "/" 
+            "navTitle": "EAD",
+            "navUrl": "/fr/" 
         },
         {
-            "navTitle": "UX Service 4",
-            "navUrl": "/" 
+            "navTitle": "SCHAASE",
+            "navUrl": "/fr/" 
         }
     ],
     "footerLinkTitleTwo": "Produits",

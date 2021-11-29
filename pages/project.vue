@@ -43,8 +43,8 @@
             return {
                 items: [
                     {
-                        text: 'Home',
-                        to: "/"
+                        text: 'Acceuil',
+                        to: "/fr/"
                     },
                     {
                         text: 'Project',

@@ -7,7 +7,7 @@
                         <div class="brand-list">
                             <swiper :options="swiperOption">
                                 <div class="swiper-slide brand" v-for="(brand, index) in brandData" :key="index">
-                                    <n-link to="/">
+                                    <n-link to="/fr/">
                                         <img :src="brand.logo" alt="brand.alt">
                                     </n-link>
                                 </div>

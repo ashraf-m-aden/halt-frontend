@@ -17,7 +17,7 @@
                         <div class="row row-cols-1 no-gutters">
                             <div class="blog-3 col" data-aos="fade-up" v-for="(blog, index) in blogData.slice(0, 3)" :key="index">
                                 <div class="thumbnail">
-                                    <n-link to="/blog-details" class="image">
+                                    <n-link to="/fr/blog-details" class="image">
                                         <img :src="blog.bigImgSrc" :alt="blog.title">
                                     </n-link>
                                 </div>
@@ -37,14 +37,14 @@
                                         </li>
                                     </ul>
                                     <h3 class="title">
-                                        <n-link to="/blog-details">
+                                        <n-link to="/fr/blog-details">
                                             {{ blog.title }}
                                         </n-link>
                                     </h3>
                                     <div class="desc mb-30">
                                         <p>We've always known the power of digital, and we've mastered the strategy, tactics, and technology to harness it. Now, other departments have had to embrace the digital transformation that businesses have been talking about for so long.</p>
                                     </div>
-                                    <n-link to="/blog-details" class="btn btn-primary btn-hover-secondary">Read More</n-link>
+                                    <n-link to="/fr/blog-details" class="btn btn-primary btn-hover-secondary">Read More</n-link>
                                 </div>
                             </div>
                         </div>
@@ -99,8 +99,8 @@
 
                 items: [
                     {
-                        text: 'Home',
-                        to: "/"
+                        text: 'Acceuil',
+                        to: "/fr/"
                     },
                     {
                         text: 'Blog Classic',

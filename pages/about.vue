@@ -7,15 +7,14 @@
 
         <SearchPopup />
 
-        <BreadcrumbOne :items="items" title="We are an agency located in New York" backgroundUrl= "/images/bg/breadcrumb-bg.jpg" />
+        <BreadcrumbOne :items="items" title="We provide innovative and value added solutions" backgroundUrl= "/images/hero-image/corporate.jfif" />
+        <AboutFour />
 
         <AboutTwo class="section-padding-top about-section-padding-bottom-200" />
+        <AboutOne class="section-padding-top about-section-padding-bottom-200" />
 
         <CallToActionVideo />
 
-        <AboutFour />
-
-        <TestimonialSectionOne :style="{backgroundColor: '#f8faff'}" />
 
         <CallToActionThree />
 
@@ -32,6 +31,7 @@
             SearchPopup: () => import('@/components/SearchPopup'),
             BreadcrumbOne: () => import('@/components/BreadcrumbOne'),
             AboutTwo: () => import('@/components/AboutTwo'),
+            AboutOne: () => import('@/components/AboutOne'),
             CallToActionVideo: () => import('@/components/CallToActionVideo'),
             AboutFour: () => import('@/components/AboutFour'),
             TestimonialSectionOne: () => import('@/components/TestimonialSectionOne'),
@@ -43,11 +43,11 @@
             return {
                 items: [
                     {
-                        text: 'Home',
-                        to: "/"
+                        text: 'Acceuil',
+                        to: "/fr/"
                     },
                     {
-                        text: 'About Us',
+                        text: 'A propos',
                         active: true
                     }
                 ]

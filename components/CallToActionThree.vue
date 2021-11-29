@@ -3,11 +3,10 @@
         <div class="container text-center icon-up-down-animation">
             <!-- Section Title Start -->
             <div class="section-title text-center" data-aos="fade-up">
-                <h2 class="title fz-34">Let's talk about your project and see how we can work together</h2>
-                <p class="sub-title">Our team of designers, developers and creatives are perfectionists who love what they do and love where they work</p>
+                <h2 class="title fz-34">Parlons de votre projet et voyons comment nous pouvons travailler ensemble</h2>
             </div>
             <!-- Section Title End -->
-            <n-link to="/contact-us" class="btn btn-primary btn-hover-secondary">Contact Us</n-link>
+            <n-link to="/fr/contact" class="btn btn-primary btn-hover-secondary">Contactez nous</n-link>
 
             <!-- Icon Animation Start -->
             <div class="shape" v-for="(shape, index) in shapeData" :key="index" :class="shape.className">

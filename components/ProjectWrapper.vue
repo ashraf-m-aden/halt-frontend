@@ -11,16 +11,16 @@
                 <div class="col mt-30" v-for="(project, index) in projectData" :key="index">
                     <div class="work">
                         <div class="thumbnail">
-                            <n-link to="/project-details" class="image">
+                            <n-link to="/fr/projet-details" class="image">
                                 <img :src="project.imgSrc" :alt="project.title">
                             </n-link>
                         </div>
                         <div class="info">
                             <h3 class="title">
-                                <n-link to="/project-details">{{ project.title }}</n-link>
+                                <n-link to="/fr/projet-details">{{ project.title }}</n-link>
                             </h3>
                             <p class="desc">{{ project.desc }}</p>
-                            <n-link to="/project-details">View Project</n-link>
+                            <n-link to="/fr/projet-details">View Project</n-link>
                         </div>
                     </div>
                 </div>

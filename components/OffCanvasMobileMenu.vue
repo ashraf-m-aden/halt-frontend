@@ -4,7 +4,7 @@
         <div class="inner custom-scrollbar">
             <div class="mobile-header">
                 <div class="logo">
-                    <n-link to="/">
+                    <n-link to="/fr/">
                         <img src="/images/logo/logo.png" alt="site logo">
                     </n-link>
                 </div>

@@ -1,5 +1,5 @@
 <template>
-    <div class="video-section section-padding" :style="{backgroundImage: `url('/images/bg/video-bg.jpg')`}">
+    <div class="video-section section-padding" :style="{backgroundImage: `url('/images/bg/team.jpg')`, backgroundSize:'contain'}">
         <div class="container text-center">
             <!-- Section Title Start -->
             <div class="section-title color-light text-center" data-aos="fade-up">
@@ -33,7 +33,7 @@
             return {
                 videos: [
                     {
-                        src: "https://www.youtube.com/watch?v=eS9Qm4AOOBY"
+                        src: "https://www.youtube.com/watch?v=W1I7AK625HA"
                     }
                 ]
             };

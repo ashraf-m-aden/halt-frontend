@@ -7,7 +7,7 @@
                     <!-- Header Logo Start -->
                     <div class="col-xl-2 col-auto order-0">
                         <div class="header-logo">
-                            <n-link to="/">
+                            <n-link to="/fr/">
                                 <img class="dark-logo" src="/images/logo/halt.png" alt="Agency Logo">
                                 <img class="light-logo" src="/images/logo/logo.png" alt="Agency Logo">
                             </n-link>

@@ -7,11 +7,10 @@
             </div>
 
             <div class="messonry-button text-center mb-60">
-                <button data-filter="all"><span class="filter-text">Tous</span></button>
-                <button data-filter=".app"><span class="filter-text">Service 1</span></button>
-                <button data-filter=".development"><span class="filter-text">Service 2</span></button>
-                <button data-filter=".marketing"><span class="filter-text">Service 3</span></button>
-                <button data-filter=".software"><span class="filter-text">Service 4</span></button>
+                <button data-filter="all"><span class="filter-text">HALT GROUP International</span></button>
+                <button data-filter=".app"><span class="filter-text">DMIX</span></button>
+                <button data-filter=".development"><span class="filter-text">EAD</span></button>
+                <button data-filter=".marketing"><span class="filter-text">SCHAASE</span></button>
             </div>
 
             <div class="row row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1 no-gutters box">
@@ -22,7 +21,7 @@
                         </div>
                         <div class="content">
                             <h5 class="title">
-                                <n-link to="/project-details">{{ portfolio.title }}</n-link>
+                                <n-link to="/fr/projet-details">{{ portfolio.title }}</n-link>
                             </h5>
                         </div>
                     </div>

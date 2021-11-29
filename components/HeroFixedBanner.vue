@@ -1,6 +1,6 @@
 <template>
     <div class="intro-slider">
-        <div class="intro-section overlay bg-cover" :style="{ backgroundImage: `url('/images/hero-image/corporate.jfif')` }">
+        <div class="intro-section overlay bg-cover" :style="{ backgroundImage: `url('images/hero-image/corporate.jfif')` }">
             <div class="container">
                 <div class="row row-cols-lg-1 row-cols-1">
                     <div class="col align-self-center">

@@ -70,7 +70,7 @@
                                         </div>
 
                                         <div class="work-btn">
-                                            <n-link to="/contact-us" class="btn btn-primary btn-hover-secondary">Go to link</n-link>
+                                            <n-link to="/fr/contact" class="btn btn-primary btn-hover-secondary">Go to link</n-link>
                                         </div>
                                     </div>
                                 </div>
@@ -150,8 +150,8 @@
             return {
                 items: [
                     {
-                        text: 'Home',
-                        to: "/"
+                        text: 'Acceuil',
+                        to: "/fr/"
                     },
                     {
                         text: 'Project Details',

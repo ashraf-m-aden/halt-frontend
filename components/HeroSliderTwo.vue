@@ -11,8 +11,8 @@
                                     <div class="desc">
                                         <p>{{ banner.text }}</p>
                                     </div>
-                                    <n-link to="/about" class="btn btn-primary btn-hover-secondary">Get Started</n-link>
-                                    <n-link to="/about" class="btn btn-outline-white btn-hover-primary">Learn More</n-link>
+                                    <n-link to="/fr/about" class="btn btn-primary btn-hover-secondary">Get Started</n-link>
+                                    <n-link to="/fr/about" class="btn btn-outline-white btn-hover-primary">Learn More</n-link>
                                 </div>
                             </div>
                         </div>
