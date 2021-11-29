@@ -97,7 +97,7 @@
             <!-- Footer Copyright Start -->
             <div class="row">
                 <div class="col">
-                    <p class="copyright">&copy; 2021 <a href="#">HasThemes</a>. All Rights Reserved.</p>
+                    <p class="copyright">&copy; 2021 <a href="#">Halt Group</a>. All Rights Reserved.</p>
                 </div>
             </div>
             <!-- Footer Copyright End -->

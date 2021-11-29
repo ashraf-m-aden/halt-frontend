@@ -6,11 +6,11 @@
                     <div class="error-image">
                         <img class="img-fluid" src="/images/others/page-404-image.png" alt="Not Found Image">
                     </div>
-                    <h1 class="error-404-title text-white" v-if="error.statusCode === 404">Oops! Page not found!</h1>
-                    <h1 class="error-404-title text-white" v-else>An error occurred</h1>
+                    <h1 class="error-404-title text-white" v-if="error.statusCode === 404">Oops! Page inexistante!</h1>
+                    <h1 class="error-404-title text-white" v-else>Une erreur s'est produite</h1>
                     <div class="error-buttons">
                         <n-link to="/" class="btn btn-primary btn-hover-secondary">
-                            <span class="button-text">Go back to homepage</span>
+                            <span class="button-text">Retour à l'acceuil</span>
                         </n-link>
                     </div>
                 </div>

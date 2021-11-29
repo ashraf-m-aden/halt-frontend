@@ -2,7 +2,7 @@
     <div class="section-padding-t90-b100">
         <div class="container shape-animate">
             <!-- Section Title Start -->
-            <SectionTitle title="We are a full-service creative agency" sub-title="Our team of designers, developers and creatives are perfectionists who love what they do and love where they work" add-class-name="mb-30" />
+            <SectionTitle title="Des services créatifs et innovants" sub-title="Orientez vos projets dans la bonne direction avec notre experience" add-class-name="mb-30" />
             <!-- Section Title End -->
 
             <div class="row row-cols-lg-3 row-cols-md-2 row-cols-sm-2 row-cols-1 mtn-30">
@@ -12,7 +12,7 @@
                             <img class="svgInject" src="/images/svg/linea/linea-basic-map.svg" alt="Icon">
                         </div>
                         <div class="info">
-                            <h4 class="title">Our Locations</h4>
+                            <h4 class="title">Notre addresse</h4>
                             <span class="info-text"> 110 W 34th St, NYC. <br> 67 Madison Avenue.</span>
                         </div>
                     </div>
@@ -24,7 +24,7 @@
                             <img class="svgInject" src="/images/svg/linea/linea-basic-message-txt.svg" alt="Icon">
                         </div>
                         <div class="info">
-                            <h4 class="title">Give Us A Call</h4>
+                            <h4 class="title">Contactez nous sur ces numeros</h4>
                             <span class="info-text"> 0123456789 <br> 0123456789</span>
                         </div>
                     </div>
@@ -36,7 +36,7 @@
                             <img class="svgInject" src="/images/svg/linea/linea-basic-mail-open-text.svg" alt="Icon">
                         </div>
                         <div class="info">
-                            <h4 class="title">Help Desk</h4>
+                            <h4 class="title">Nos addresses email</h4>
                             <span class="info-text">
                                 <a href="mailto:demo@example.com">demo@example.com</a>
                                 <br>

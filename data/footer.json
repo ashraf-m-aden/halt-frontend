@@ -1,6 +1,6 @@
 {
     "footerAboutWidget": {
-        "logoSrc": "/images/logo/footer-logo.png",
+        "logoSrc": "/images/logo/halt.png",
         "telephone": "0123456789",
         "email": "demo@example.com",
         "fbUrl": "#",
@@ -10,76 +10,49 @@
     "footerLinkTitleOne": "Services",
     "navListOne": [
         {
-            "navTitle": "Marketing",
+            "navTitle": "Service 1",
             "navUrl": "/" 
         },
         {
-            "navTitle": "SEO/SEM",
+            "navTitle": "Service 2",
             "navUrl": "/" 
         },
         {
-            "navTitle": "Development",
+            "navTitle": "Service 3",
             "navUrl": "/" 
         },
         {
-            "navTitle": "UX Design",
+            "navTitle": "UX Service 4",
             "navUrl": "/" 
         }
     ],
-    "footerLinkTitleTwo": "Products",
+    "footerLinkTitleTwo": "Produits",
     "navListTwo": [
         {
-            "navTitle": "Elementor Guru",
+            "navTitle": "Produit 1",
             "navUrl": "/" 
         },
         {
-            "navTitle": "WooLentor Pro",
+            "navTitle": "Produit 2",
             "navUrl": "/" 
         },
         {
-            "navTitle": "Plugins",
+            "navTitle": "Produit 3",
             "navUrl": "/" 
         },
         {
-            "navTitle": "Page Builder",
+            "navTitle": "Produit 4",
             "navUrl": "/" 
         }
     ],
-    "footerLinkTitleThree": "About",
+    "footerLinkTitleThree": "A propos",
     "navListThree": [
         {
-            "navTitle": "Features",
+            "navTitle": "Nos programmes",
             "navUrl": "/" 
         },
         {
-            "navTitle": "Our Partners",
-            "navUrl": "/" 
-        },
-        {
-            "navTitle": "Affiliate Program",
-            "navUrl": "/" 
-        },
-        {
-            "navTitle": "Pricing",
-            "navUrl": "/" 
-        }
-    ],
-    "footerLinkTitleFour": "Contact",
-    "navListFour": [
-        {
-            "navTitle": "Support Ticket",
-            "navUrl": "/" 
-        },
-        {
-            "navTitle": "Help Desk",
-            "navUrl": "/" 
-        },
-        {
-            "navTitle": "Live Chat",
-            "navUrl": "/" 
-        },
-        {
-            "navTitle": "FAQs",
+            "navTitle": "Nos partenaires",
             "navUrl": "/" 
         }
     ]

@@ -14,6 +14,7 @@ import { setContext, getLocation, getRouteData, normalizeError } from './utils'
 
 import nuxt_plugin_plugin_4cc2e417 from 'nuxt_plugin_plugin_4cc2e417' // Source: .\\components\\plugin.js (mode: 'all')
 import nuxt_plugin_bootstrapvue_618606e9 from 'nuxt_plugin_bootstrapvue_618606e9' // Source: .\\bootstrap-vue.js (mode: 'all')
+import nuxt_plugin_router_79466035 from 'nuxt_plugin_router_79466035' // Source: .\\router.js (mode: 'all')
 import nuxt_plugin_vueawesomeswiper_5ce03f58 from 'nuxt_plugin_vueawesomeswiper_5ce03f58' // Source: ..\\plugins\\vue-awesome-swiper.js (mode: 'all')
 import nuxt_plugin_silentbox_80b78152 from 'nuxt_plugin_silentbox_80b78152' // Source: ..\\plugins\\silentbox.js (mode: 'all')
 import nuxt_plugin_vuejspaginate_185e95ec from 'nuxt_plugin_vuejspaginate_185e95ec' // Source: ..\\plugins\\vuejs-paginate.js (mode: 'all')
@@ -189,6 +190,10 @@ async function createApp(ssrContext, config = {}) {
 
   if (typeof nuxt_plugin_bootstrapvue_618606e9 === 'function') {
     await nuxt_plugin_bootstrapvue_618606e9(app.context, inject)
+  }
+
+  if (typeof nuxt_plugin_router_79466035 === 'function') {
+    await nuxt_plugin_router_79466035(app.context, inject)
   }
 
   if (typeof nuxt_plugin_vueawesomeswiper_5ce03f58 === 'function') {
