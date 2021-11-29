@@ -4,9 +4,9 @@ export default {
         fallback: true,
         routes: [
             '/'
-          ]
+        ]
     },
-    
+
     // Global page headers (https://go.nuxtjs.dev/config-head)
     head: {
         title: 'HALT Group',
@@ -18,8 +18,11 @@ export default {
         ],
         link: [
             { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+            { rel:"apple-touch-icon", sizes:"180x180", href:"./static/images/favicon_io/apple-touch-icon.png" },
+            { rel:"icon", type:"image/png", sizes:"32x32", href:"./static/images/favicon_io/favicon-32x32.png" },
+            { rel:"icon", type:"image/png", sizes:"16x16", href:"./static/images/favicon_io/favicon-16x16.png" }
         ],
-        
+
     },
 
     // Global CSS (https://go.nuxtjs.dev/config-css)
@@ -34,12 +37,12 @@ export default {
         '~/plugins/vuejs-paginate.js',
         '~/plugins/Mixitup.client.js',
         {
-            src: "~/plugins/aos", 
-            ssr: false 
+            src: "~/plugins/aos",
+            ssr: false
         },
-        { 
-            src: "~/plugins/typed.js", 
-            ssr: false 
+        {
+            src: "~/plugins/typed.js",
+            ssr: false
         }
     ],
 
@@ -50,10 +53,10 @@ export default {
     buildModules: [
         // Simple usage
         '@nuxtjs/router',
-    
+
         // With options
-       // ['@nuxtjs/router', { /* module options */ }]
-      ],
+        // ['@nuxtjs/router', { /* module options */ }]
+    ],
 
     // Modules (https://go.nuxtjs.dev/config-modules)
     modules: [
@@ -70,7 +73,7 @@ export default {
 
     // Build Configuration (https://go.nuxtjs.dev/config-build)
     build: {
-        extend (config, ctx) {
+        extend(config, ctx) {
         },
     },
     target: 'static'
