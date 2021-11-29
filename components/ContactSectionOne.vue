@@ -66,7 +66,7 @@
                         <form >
                             <div class="row mb-n4">
                                 <div class="col-md-12 col-12 mb-4">
-                                    <input type="text" placeholder="Your Name *" name="name">
+                                    <input type="text" placeholder="Votre nom *" name="name">
                                 </div>
                                 <div class="col-md-12 col-12 mb-4">
                                     <input type="email" placeholder="Email *" name="email">

@@ -7,7 +7,7 @@
 
         <SearchPopup />
 
-        <BreadcrumbOne :items="items" title="We provide innovative and value added solutions" backgroundUrl= "/images/bg/team.jpg" />
+        <BreadcrumbOne :items="items" title="We provide innovative and value added solutions" backgroundUrl= "/images/hero-image/corporate.jfif" />
 
         <CallToActionOne />
 
